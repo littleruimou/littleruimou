@@ -18,6 +18,25 @@
 </div>
 <br>
 
+</div>  
+<br>
+<div>
+<h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
+<div>
+<img src="https://raw.githubusercontent.com/huy232/huy232/main/image/2.gif" align="center" />
+  </div>
+<br> 
+</div>  
+
+
+<br>
+<div>
+<h2 align="center">View counter 👀</h2>
+<div align="center">
+<img src="https://moe-counter.glitch.me/get/@YT-Advanced?theme=gelbooru" />
+  </div>
+<br>
+
 <!---
 littleruimou/littleruimou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
