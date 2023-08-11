@@ -3,8 +3,7 @@
 <body>
 <br>
 <div align="center">
-<div class="tenor-gif-embed" data-postid="22990807" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/sinchan-hello-hi-byw-bye-gif-22990807">Sinchan Hello GIF</a>from <a href="https://tenor.com/search/sinchan-gifs">Sinchan GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<img src="https://tenor.com/zh-TW/view/sinchan-hello-hi-byw-bye-gif-22990807" width="300px">
+<img src="https://media.tenor.com/mV5ycTPTpxkAAAAC/sinchan-hello.gif" width="300px">
 </div>
 <br>
 
