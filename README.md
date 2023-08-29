@@ -12,7 +12,7 @@
 <div align = "center">
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=androidstudio,bash,linux,vim,git,github,java,c,cpp,html"alt="My Skills" height="60"/>
+        <img src="https://skillicons.dev/icons?i=androidstudio,bash,linux,vim,git,github,java,c,cpp,html&perline=5"alt="My Skills" height="150"/>
     </a>
 </p>
 </div>
