@@ -12,7 +12,7 @@
 <div align = "center">
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=androidstudio,bash,linux,vim,git,github,java,c,cpp,html"alt="My Skills"/>
+        <img src="https://skillicons.dev/icons?i=androidstudio,bash,linux,vim,git,github,java,c,cpp,html"alt="My Skills" height="80"/>
     </a>
 </p>
 </div>
@@ -32,8 +32,8 @@
 <br>
 <div>
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
-<div>
-<img src="https://saenai-movie.com/shared/img/package/main_visual_pc.png" align="center" />
+<div align="center">
+<img src="https://saenai-movie.com/shared/img/package/main_visual_pc.png" align="center" height="400" />
   </div>
 <br> 
 </div>  
@@ -43,7 +43,7 @@
 <div>
 <h2 align="center">View counter 👀</h2>
 <div align="center">
-<img src="https://count.getloli.com/get/@littleruimou?theme=rule34" />
+<img src="https://count.getloli.com/get/@littleruimou?theme=rule34" height="130" />
   </div>
 <br>
 
