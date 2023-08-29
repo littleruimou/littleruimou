@@ -43,7 +43,7 @@
 <div>
 <h2 align="center">View counter 👀</h2>
 <div align="center">
-<img src="https://moe-counter.glitch.me/get/@littleruimou?theme=rule34" />
+<img src="https://count.getloli.com/get/@littleruimou?theme=rule34" />
   </div>
 <br>
 
